@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Md Altamash Husain👋</h1>
-<h3 align="center">Full Stack Developer | Data Science Enthusiast | </h3>
+<h3 align="center">Full Stack Developer | Data Science Enthusiast  </h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header" />
