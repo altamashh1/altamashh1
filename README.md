@@ -1,74 +1,139 @@
-<h1 align="center">Hi there, I'm Md Altamash  👋</h1>
-<h3 align="center">A passionate developer building cool things with code</h3>
+<h1 align="center">Hi there, I'm Md Altamash Husain Samani 👋</h1>
+<h3 align="center">Full Stack Developer | Data Science Enthusiast | Computer Vision & ML</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=5BCEFA&width=600&center=true&vCenter=true&lines=Full-Stack+Developer;Open+Source+Contributor;Always+learning+something+new;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Full+Stack+Developer+(React.js+%7C+Node.js);Data+Science+%26+Machine+Learning+Enthusiast;Computer+Vision+with+Python+%26+OpenCV;Open+to+Entry-Level+Opportunities!" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying / graduated in **YOUR_DEGREE** from **YOUR_COLLEGE**
-- 🌱 Currently learning **TECH_1, TECH_2**
-- 💬 Ask me about **YOUR_SKILLS (e.g. React, Node.js, DSA)**
-- 📫 Reach me at **your-email@example.com** or via [LinkedIn](https://linkedin.com/in/yourhandle)
-- ⚡ Fun fact: **something interesting about you**
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering (Data Science)** at Galgotias College of Engineering and Technology, Greater Noida (2022 – Present)
+- 💻 Experienced in building responsive **full stack web applications** using React.js, Node.js, and REST APIs
+- 🔍 Skilled in **Python-based computer vision and data analysis** using OpenCV, Pandas, NumPy, and scikit-learn
+- 🌱 Currently strengthening my skills in **Data Structures & Algorithms, Machine Learning, and System Design**
+- 💬 Ask me about **React.js, Node.js, Python, SQL, OpenCV, Data Analysis**
+- 🎯 Seeking an **entry-level Full Stack Developer or Data Science role** to design reliable, scalable products and deliver measurable user value
+- 📫 Reach me at **altamash9794@gmail.com**
+- 📍 Based in Noida, India
 
 ---
 
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" /></a>
-  <a href="https://leetcode.com/yourhandle"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" /></a>
+  <a href="https://linkedin.com/in/altamashmd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" /></a>
+  <a href="mailto:altamash9794@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="32" /></a>
 </p>
 
 ---
 
 ### 🖥️ Tech Stack
 
+**Languages**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
 </p>
 
-<!-- Full icon list & names: https://github.com/devicons/devicon -->
+**Full Stack Development**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+</p>
+
+**Data Science & Machine Learning**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" width="40" />
+</p>
+
+**Databases & Tools**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Smart Attendance System Using Face Recognition
+**Python | OpenCV | MySQL**
+- Developed a real-time face-recognition attendance system using Python and OpenCV to detect and verify users.
+- Integrated MySQL to store and retrieve attendance records, improving reliability of record management.
+- Achieved 90% facial-recognition accuracy under varied lighting conditions through rigorous testing and refinement.
+
+### 🔹 Responsive E-commerce Website
+**JavaScript | HTML5 | CSS3**
+- Designed and developed a responsive e-commerce interface with product listings, shopping cart, and checkout workflows.
+- Implemented client-side interactions in JavaScript to create an intuitive, consistent shopping experience.
+- Optimized layouts across mobile and desktop viewports using CSS, improving accessibility and usability.
+
+> 📌 Pin these repos (and others) from your profile's "Customize your pins" so they display as cards above this README.
+
+---
+
+## 🎓 Education
+
+**Galgotias College of Engineering and Technology, Greater Noida**
+Bachelor of Technology, Computer Science and Engineering (Data Science) — *2022 – Present*
+Relevant coursework: Data Science, Data Analytics, Design and Analysis of Algorithms, Computer Engineering
+
+**Little Flower School, Gorakhpur**
+Indian School Certificate (Class XII) — *2019 – 2021* | Grade: 8.5/10
+
+---
+
+## 📜 Certifications
+
+- 🧠 AI/ML Virtual Internship — Smart Internz (June – August 2025)
+- 📊 Data Structures & Algorithms — Abdul Bari, Udemy
+- 🌐 Web Services APIs & Web Development — Angela Yu, Udemy
+- 🗄️ Database Programming Using SQL — Oracle, Infosys
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
-
-Pin your best repos from your GitHub profile settings (Customize your pins) — they'll show automatically on your profile page above this README.
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
