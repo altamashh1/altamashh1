@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Md Altamash Husain 👋</h1>
+<h1 align="center">Hi there, I'm Md Altamash Husain Samani 👋</h1>
 <h3 align="center">Full Stack Developer | Data Science Enthusiast | Computer Vision & ML</h3>
 
 <p align="center">
@@ -9,11 +9,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Full+Stack+Developer+(React.js+%7C+Node.js);Data+Science+%26+Machine+Learning+Enthusiast;Computer+Vision+with+Python+%26+OpenCV;Open+to+Entry-Level+Opportunities!" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering (Data Science)** at Galgotias College of Engineering and Technology, Greater Noida (2022 – Present)
+- 🎓 **B.Tech in Computer Science and Engineering (Data Science)** from Galgotias College of Engineering and Technology, Greater Noida (2022 – 2026)
 - 💻 Experienced in building responsive **full stack web applications** using React.js, Node.js, and REST APIs
 - 🔍 Skilled in **Python-based computer vision and data analysis** using OpenCV, Pandas, NumPy, and scikit-learn
 - 🌱 Currently strengthening my skills in **Data Structures & Algorithms, Machine Learning, and System Design**
@@ -100,7 +104,7 @@
 ## 🎓 Education
 
 **Galgotias College of Engineering and Technology, Greater Noida**
-Bachelor of Technology, Computer Science and Engineering (Data Science) — *2022 – Present*
+Bachelor of Technology, Computer Science and Engineering (Data Science) — *2022 – 2026*
 Relevant coursework: Data Science, Data Analytics, Design and Analysis of Algorithms, Computer Engineering
 
 **Little Flower School, Gorakhpur**
