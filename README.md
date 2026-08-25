@@ -103,7 +103,7 @@
 ## 🎓 Education
 
 🔹**Galgotias College of Engineering and Technology, Greater Noida**
-Bachelor of Technology, Computer Science and Engineering (Data Science) — *2022 – 2026* | Grade: 7/10
+Bachelor of Technology, Computer Science and Engineering (Data Science) — *2022 – 2026* | Grade: 7/10  
 Relevant coursework: Data Science, Data Analytics, Design and Analysis of Algorithms, Computer Engineering 
 
 🔹**Little Flower School, Gorakhpur**
