@@ -24,7 +24,7 @@
 - 💬 Ask me about **React.js, Node.js, Python, SQL, OpenCV, Data Analysis**
 - 🎯 Seeking an **entry-level Full Stack Developer or Data Science role** to design reliable, scalable products and deliver measurable user value
 - 📫 Reach me at **altamash9794@gmail.com**
-- 📍 Based in Noida, India
+- 📍 Based in Delhi, India
 
 ---
 
@@ -32,7 +32,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/altamashmd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" /></a>
-  <a href="mailto:altamash9794@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="32" /></a>
 </p>
 
 ---
