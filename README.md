@@ -96,7 +96,7 @@
 - Implemented client-side interactions in JavaScript to create an intuitive, consistent shopping experience.
 - Optimized layouts across mobile and desktop viewports using CSS, improving accessibility and usability.
 
-> 📌 Pin these repos (and others) from your profile's "Customize your pins" so they display as cards above this README.
+
 
 ---
 
