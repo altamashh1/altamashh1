@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Md Altamash Husain👋</h1>
-<h3 align="center">Full Stack Developer | Data Science Enthusiast | Computer Vision & ML</h3>
+<h3 align="center">Full Stack Developer | Data Science Enthusiast | </h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Full+Stack+Developer+(React.js+%7C+Node.js);Data+Science+%26+Machine+Learning+Enthusiast;Computer+Vision+with+Python+%26+OpenCV;Open+to+Entry-Level+Opportunities!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Full+Stack+Developer+;Data+Science+%26+Machine+Learning+Enthusiast;Open+to+Entry-Level+Opportunities!" />
 </p>
 
 <p align="center">
