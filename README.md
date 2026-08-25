@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Md Altamash Husain Samani 👋</h1>
+<h1 align="center">Hi there, I'm Md Altamash Husain👋</h1>
 <h3 align="center">Full Stack Developer | Data Science Enthusiast | Computer Vision & ML</h3>
 
 <p align="center">
