@@ -84,17 +84,29 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Smart Attendance System Using Face Recognition
-**Python | OpenCV | MySQL**
-- Developed a real-time face-recognition attendance system using Python and OpenCV to detect and verify users.
-- Integrated MySQL to store and retrieve attendance records, improving reliability of record management.
-- Achieved 90% facial-recognition accuracy under varied lighting conditions through rigorous testing and refinement.
+### The Green Room – AI Mock Interview App Node.js, Express, SQL
 
-### 🔹 Responsive E-commerce Website
-**JavaScript | HTML5 | CSS3**
-- Designed and developed a responsive e-commerce interface with product listings, shopping cart, and checkout workflows.
-- Implemented client-side interactions in JavaScript to create an intuitive, consistent shopping experience.
-- Optimized layouts across mobile and desktop viewports using CSS, improving accessibility and usability.
+• Built and deployed a full-stack web app for adaptive voice-based mock interviews across 7 job roles
+and 4 experience levels, transcribing spoken answers in-browser and prompting an LLM for each
+follow-up question in real time.
+• Developed a REST API in Node.js and Express with JWT authentication, bcrypt-hashed passwords,
+per-IP rate limiting, and server-side validation of all model responses.
+• Designed a SQL schema (libSQL/Turso) for user accounts, interview transcripts, and AI-scored feedback,
+and built an admin analytics dashboard plus a model-fallback chain that keeps sessions running through
+provider rate limits.
+
+### Dialect – LLM-Powered Data Analysis App Python, FastAPI, Pandas
+
+• Built a full-stack analytics app that converts plain-English questions about an uploaded CSV, Excel, or
+JSON dataset into pandas code, executes it in an isolated subprocess, and feeds any error back to the
+LLM to self-correct within 3 attempts.
+• Engineered a three-layer sandbox for executing untrusted LLM-generated Python, combining an AST
+validator, a restricted-namespace runtime, and OS-level memory and timeout limits, hardened against 24
+tested escape techniques.
+• Deployed the production layer: JWT authentication, per-user PostgreSQL persistence, pluggable local,
+database and S3 storage, answer verification with an LLM critic, and cost/latency telemetry on a live
+dashboard, validated by 145 automated tests in pytest.
+
 
 
 
