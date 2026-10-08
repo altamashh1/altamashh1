@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Full+Stack+Developer+;Data+Science+%26+Machine+Learning+Enthusiast;Open+to+Entry-Level+Opportunities!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Full+Stack+Developer+;Data+Science+%26+Machine+Learning+Enthusiast;Building+scalable+solutions" />
 </p>
 
 <p align="center">
@@ -32,6 +32,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/altamashmd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" /></a>
+  <a href="mailto:altamash9794@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="32" /></a>
 </p>
 
 ---
