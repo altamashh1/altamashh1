@@ -31,11 +31,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/altamashmd">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:altamash9794@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail" />
   </a>
 </p>
 
