@@ -33,11 +33,10 @@
   <a href="https://linkedin.com/in/altamashmd">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:altamash9794@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=altamash9794@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail" />
   </a>
 </p>
-
 ---
 
 ### 🖥️ Tech Stack
