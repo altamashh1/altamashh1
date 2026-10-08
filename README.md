@@ -27,12 +27,16 @@
 - 📍 Based in Delhi, India
 
 ---
-
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/altamashmd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" /></a>
-  <a href="mailto:altamash9794@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="32" /></a>
+  <a href="https://linkedin.com/in/altamashmd">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:altamash9794@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
