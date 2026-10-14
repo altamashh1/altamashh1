@@ -26,7 +26,7 @@
 - 📫 Reach me at **altamash9794@gmail.com**
 - 📍 Based in Delhi, India
 
----
+
 ### 🔗 Connect with me
 
 <p align="center">
