@@ -118,13 +118,15 @@ dashboard, validated by 145 automated tests in pytest.
 ## 🎓 Education
 
 🔹 **Galgotias College of Engineering and Technology, Greater Noida**<br>
-Bachelor of Technology, Computer Science and Engineering (Data Science) — *2022 – 2026*<br>
-Grade: 7/10<br>
-Relevant coursework: Data Science, Data Analytics, Design and Analysis of Algorithms, Computer Engineering
+&emsp;&nbsp;Bachelor of Technology, Computer Science and Engineering (Data Science) — *2022 – 2026*<br>
+&emsp;&nbsp;Grade: 7/10<br>
+&emsp;&nbsp;Relevant coursework: Data Science, Data Analytics, Design and Analysis of Algorithms, Computer Engineering
 
 🔹 **Little Flower School, Gorakhpur**<br>
-Indian School Certificate (Class XII) — *2019 – 2021*<br>
-Grade: 8.5/10
+&emsp;&nbsp;Indian School Certificate (Class XII) — *2019 – 2021*<br>
+&emsp;&nbsp;Grade: 8.5/10
+
+
 ---
 
 ## 📜 Certifications
